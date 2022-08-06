@@ -1,4 +1,4 @@
-package me.wintertodt;
+package me.mc47y;
 
 import net.runelite.client.config.Alpha;
 import net.runelite.client.config.Config;
@@ -7,7 +7,7 @@ import net.runelite.client.config.ConfigItem;
 
 import java.awt.*;
 
-@ConfigGroup("wintertodt")
+@ConfigGroup("mc47y")
 public interface WintertodtConfig extends Config {
 	@Alpha
 	@ConfigItem(

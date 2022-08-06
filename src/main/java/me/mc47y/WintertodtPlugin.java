@@ -1,4 +1,4 @@
-package me.wintertodt;
+package me.mc47y;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
@@ -29,11 +29,6 @@ public class WintertodtPlugin extends Plugin {
 	private static final int SNOW_FALLING_ID = 26690;
 
 	// Points
-	private static final WorldPoint SW_PYRO = new WorldPoint(1619, 3996, 0);
-	private static final WorldPoint NW_PYRO = new WorldPoint(1619, 4018, 0);
-	private static final WorldPoint NE_PYRO = new WorldPoint(1641, 4018, 0);
-	private static final WorldPoint SE_PYRO = new WorldPoint(1641, 3996, 0);
-	private static final List<WorldPoint> PYROS = Arrays.asList( SW_PYRO, NW_PYRO, NE_PYRO, SE_PYRO );
 	private static final WorldPoint SW_BRAZIER_CENTER = new WorldPoint(1621, 3998, 0);
 	private static final WorldPoint NW_BRAZIER_CENTER = new WorldPoint(1621, 4016, 0);
 	private static final WorldPoint NE_BRAZIER_CENTER = new WorldPoint(1639, 4016, 0);

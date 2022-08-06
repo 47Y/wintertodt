@@ -1,4 +1,4 @@
-package me.wintertodt;
+package me.mc47y;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

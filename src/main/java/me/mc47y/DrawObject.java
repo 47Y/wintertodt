@@ -1,4 +1,4 @@
-package me.wintertodt;
+package me.mc47y;
 
 import java.awt.Color;
 import java.time.Instant;

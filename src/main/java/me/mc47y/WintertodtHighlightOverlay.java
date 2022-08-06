@@ -1,4 +1,4 @@
-package me.wintertodt;
+package me.mc47y;
 
 import net.runelite.api.*;
 import net.runelite.api.coords.LocalPoint;
