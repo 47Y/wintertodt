@@ -17,7 +17,7 @@ public interface WintertodtConfig extends Config {
 	)
 	default Color snowfallColor()
 	{
-		return new Color(0, 67, 160, 255);
+		return new Color(255, 0, 0, 255);
 	}
 
 	@Alpha
